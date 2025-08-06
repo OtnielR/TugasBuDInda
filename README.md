@@ -1,2 +1,2 @@
-# TugasBuDInda
+# TableAndList
 Tugas Dari Bu Dinda
